@@ -36,7 +36,7 @@ To use the microservice, follow the steps above to install and run the project, 
 </p>
 
 
-`<link>` : <https://github.com>
+`Frontend Cinema Platform` : <https://github.com/JaviQuilumba/CinemaPlatform.git>
 
 #### Technologies used for this microservice
 - **Node.js** with the Express.js framework for the backend server.
